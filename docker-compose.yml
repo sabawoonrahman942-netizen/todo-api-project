@@ -1,0 +1,7 @@
+services:
+  todo-api:
+    build: .
+    container_name: todo-api
+    ports:
+      - "5000:5000"
+    restart: always
