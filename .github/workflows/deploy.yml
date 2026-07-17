@@ -2,8 +2,8 @@ name: Deploy Todo API
 
 on:
   push:
-    branches:
-      - main
+    branches: - main
+
 
 jobs:
 
@@ -20,7 +20,7 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest
+          python3 -m pytest
 
 
   deploy:
