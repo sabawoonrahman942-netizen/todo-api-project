@@ -10,7 +10,7 @@ todos = [
 @app.route("/")
 def home():
     return jsonify({
-        "message": "Todo API çalışıyor"
+        "message": "CI/CD test başarılı"
     })
 
 @app.route("/todos")
