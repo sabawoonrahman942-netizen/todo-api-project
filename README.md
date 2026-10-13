@@ -48,3 +48,4 @@ Proje, yazılım geliştirme sürecinden canlı ortam izlemesine kadar uçtan uc
    cd todo-api-project
 Pipeline test update
 Pipeline test update
+Pipeline service verification test
