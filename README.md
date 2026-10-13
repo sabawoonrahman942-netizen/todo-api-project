@@ -46,3 +46,4 @@ Proje, yazılım geliştirme sürecinden canlı ortam izlemesine kadar uçtan uc
    ```bash
    git clone [https://github.com/sabawoonrahman942-netizen/todo-api-project.git](https://github.com/sabawoonrahman942-netizen/todo-api-project.git)
    cd todo-api-project
+Pipeline test update
